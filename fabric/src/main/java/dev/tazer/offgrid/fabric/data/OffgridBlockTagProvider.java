@@ -157,7 +157,7 @@ public class OffgridBlockTagProvider extends FabricTagProvider.BlockTagProvider 
         this.optional(OffgridTags.CAN_OVERLAY, "another_furniture:service_bell");
         this.optional(OffgridTags.CAN_OVERLAY, "spelunkery:salt_lamp");
         this.optional(OffgridTags.CAN_OVERLAY, dyed("another_furniture:%_lamp"));
-        this.optional(OffgridTags.CAN_OVERLAY, "create:nixie_tube", "create:peculiar_bell", "create:haunted_bell");
+        //this.optional(OffgridTags.CAN_OVERLAY, "create:nixie_tube", "create:peculiar_bell", "create:haunted_bell");
         this.optional(OffgridTags.CAN_OVERLAY, leaf("quark:%_leaf_carpet"));
         this.optional(OffgridTags.CAN_OVERLAY, "quark:tiny_potato", "quark:iron_rod", "quark:glow_lichen_growth", "quark:paper_wall_sakura", "quark:paper_lantern_sakura", "quark:blossom_pressure_plate", "quark:obsidian_pressure_plate");
         this.optional(OffgridTags.CAN_OVERLAY, "dndecor:stepped_lever", "dndecor:breaker_switch", "dndecor:text_plate");
