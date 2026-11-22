@@ -194,18 +194,6 @@
       "required": false
     },
     {
-      "id": "create:nixie_tube",
-      "required": false
-    },
-    {
-      "id": "create:peculiar_bell",
-      "required": false
-    },
-    {
-      "id": "create:haunted_bell",
-      "required": false
-    },
-    {
       "id": "quark:oak_leaf_carpet",
       "required": false
     },
